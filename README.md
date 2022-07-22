@@ -1,1 +1,1 @@
-# sdc-parallel-http-requests-groovy
+# streamsets-transaction-processing-demo
