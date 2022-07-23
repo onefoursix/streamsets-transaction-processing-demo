@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<transactions>
+	<transaction>
+		<id>1775321680667950230</id>
+		<name>Marie Abernathy</name>
+		<amount>1622.49</amount>
+		<account_type>CHECKING</account_type>
+		<type>CREDIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>1918788272420975540</id>
+		<name>Herminio Rice</name>
+		<amount>658.91</amount>
+		<account_type>CHECKING</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>1748765235009950164</id>
+		<name>Birdie Hintz</name>
+		<amount>1628.44</amount>
+		<account_type>CHECKING</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>8736935264720121323</id>
+		<name>Benny Cremin</name>
+		<amount>613.71</amount>
+		<account_type>CHECKING</account_type>
+		<type>CREDIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>7240516943436685822</id>
+		<name>Aurore D'Amore Sr.</name>
+		<amount>1977.22</amount>
+		<account_type>CHECKING</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>1831717501156030042</id>
+		<name>Alfreda Feeney</name>
+		<amount>1186.54</amount>
+		<account_type>SAVINGS</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>8096496324335406271</id>
+		<name>Karley Reichert</name>
+		<amount>575.53</amount>
+		<account_type>CD</account_type>
+		<type>CREDIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>2266741214178368271</id>
+		<name>Zora Jakubowski</name>
+		<amount>1140.15</amount>
+		<account_type>CHECKING</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+	<transaction>
+		<id>1163838585236299284</id>
+		<name>Carlie Friesen</name>
+		<amount>1213.93</amount>
+		<account_type>SAVINGS</account_type>
+		<type>DEBIT</type>
+		<ts>2022-07-21 21:01:40</ts>
+	</transaction>
+</transactions>
